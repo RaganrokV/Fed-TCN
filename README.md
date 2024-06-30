@@ -1,5 +1,6 @@
-## This is the code for Fed-TCN as well as the baseline model for ULTRA multi-step air pollutant forecasting.
-Since we are not experts in the field of computers, we shamefully admit that there is a lot of redundancy and unjustified naming in the code.
+## This is the code of Fed-TCN and baselines for ULTRA multi-step air pollutant forecasting.
+1.Since we are not experts in the field of computer science, we shamefully admit that there is a lot of redundancy and unjustified naming in the code.
+2.We didn't use sophisticated function calls, so in theory you could just swap out the data for a local pollutant dataset and run.
 
 ### what is the  ULTRA multi-step forecasting.
 ![image](https://github.com/RaganrokV/Fed-TCN/assets/73992419/ef354016-f14f-471c-94e0-a2e4104a2424)
